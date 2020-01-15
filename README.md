@@ -39,7 +39,16 @@ Vibrator Hatは**GPIO26番**を使用しています。
 
 ・"M5"ボタンを押すとカウントダウンが始まり、０になると振動するキッチンタイマーサンプル
 
+・espalexaライブラリを使った、音声コマンドをトリガーとしたカウントダウンタイマーサンプル
+
 を提供しています。
+**espalexaを使ったサンプルに関しては、こちらのQiita記事を見ていただくと理解が深まります。**
+https://qiita.com/norippy_i/items/d8456e3c84432e279754
+
+## 購入方法
+BOOTHにて有償頒布しております。下記リンクよりお求めください。
+https://rinoproducts.booth.pm/
+
 
 ## Licence
 This software is released under the MIT License, see LICENSE.
