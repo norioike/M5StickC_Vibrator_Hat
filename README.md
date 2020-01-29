@@ -32,6 +32,8 @@ Vibrator Hatは**GPIO26番**を使用しています。
 
 ![準備](https://user-images.githubusercontent.com/14104069/71437942-02b01480-2737-11ea-8d23-d39bd776c497.png)
 
+![backSide](https://user-images.githubusercontent.com/14104069/73329318-96c64c00-42a0-11ea-9840-5260c067af24.png)
+
 ## サンプルコード
 このリポジトリではArduno IDEで開発をしたサンプルコードを提供しております。
 
